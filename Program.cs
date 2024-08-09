@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             //LongestCommonPrefix.Test();
-            ValidParentheses.Test();
+            //ValidParentheses.Test();
+            MergeTwoSortedLists.Test();
         }
     }
 }
