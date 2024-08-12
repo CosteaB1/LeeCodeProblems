@@ -1,4 +1,4 @@
-﻿namespace LeeCodeProblems
+﻿namespace LeetCodeProblems
 {
     internal class Program
     {
@@ -6,7 +6,8 @@
         {
             //LongestCommonPrefix.Test();
             //ValidParentheses.Test();
-            MergeTwoSortedLists.Test();
+            //MergeTwoSortedLists.Test();
+            RemoveDuplicatesFromSortedArray.Test();
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace LeeCodeProblems
+﻿namespace LeetCodeProblems
 {
     internal static class LongestCommonPrefix
     {
