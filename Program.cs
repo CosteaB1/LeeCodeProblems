@@ -7,7 +7,8 @@
             //LongestCommonPrefix.Test();
             //ValidParentheses.Test();
             //MergeTwoSortedLists.Test();
-            RemoveDuplicatesFromSortedArray.Test();
+            //RemoveDuplicatesFromSortedArray.Test();
+            RemoveElement.Test();
         }
     }
 }
