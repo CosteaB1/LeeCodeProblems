@@ -8,7 +8,8 @@
             //ValidParentheses.Test();
             //MergeTwoSortedLists.Test();
             //RemoveDuplicatesFromSortedArray.Test();
-            RemoveElement.Test();
+            //RemoveElement.Test();
+            FindTheIndexOf.Test();
         }
     }
 }

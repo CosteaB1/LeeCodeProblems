@@ -5,7 +5,7 @@ internal static  class RemoveElement
     public static void Test()
     {
         var val = 3;
-        int[] nums =  {3, 2, 2, 3};
+        int[] nums = [3, 2, 2, 3];
         RemoveElementM(nums, val);
     }
 
