@@ -9,7 +9,8 @@
             //MergeTwoSortedLists.Test();
             //RemoveDuplicatesFromSortedArray.Test();
             //RemoveElement.Test();
-            FindTheIndexOf.Test();
+            //FindTheIndexOf.Test();
+            SearchInsertPosition.Test();
         }
     }
 }
