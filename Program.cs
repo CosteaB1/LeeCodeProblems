@@ -10,7 +10,8 @@
             //RemoveDuplicatesFromSortedArray.Test();
             //RemoveElement.Test();
             //FindTheIndexOf.Test();
-            SearchInsertPosition.Test();
+            //SearchInsertPosition.Test();
+            LengthOfLastWord.Test();
         }
     }
 }
