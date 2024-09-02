@@ -11,7 +11,8 @@
             //RemoveElement.Test();
             //FindTheIndexOf.Test();
             //SearchInsertPosition.Test();
-            LengthOfLastWord.Test();
+            //LengthOfLastWord.Test();
+            AddBinary.Test();
         }
     }
 }
